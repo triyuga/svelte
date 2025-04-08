@@ -14,7 +14,7 @@ pnpm --dir ../../packages/svelte build
 pnpm dev
 ```
 
-and navigate to [localhost:5173](http://localhost:5173).
+and navigate to [localhost:5177](http://localhost:5177).
 
 The first time you run the site locally, it will update the list of Contributors, REPL dependencies and examples data that is used on the [examples page](https://svelte-dev-2.vercel.app/examples). After this it won't run again unless you force it by running:
 

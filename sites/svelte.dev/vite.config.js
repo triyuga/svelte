@@ -59,7 +59,8 @@ const config = {
 	server: {
 		fs: {
 			strict: false
-		}
+		},
+		port: 5177,
 	}
 };
 
